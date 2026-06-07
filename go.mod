@@ -1,6 +1,6 @@
 module github.com/dmarins/goclip-youtube-playlist
 
-go 1.25.8
+go 1.26.2
 
 require (
 	github.com/atotto/clipboard v0.1.4
