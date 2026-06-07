@@ -1,0 +1,6 @@
+# Environment secrets — never commit this file
+.env
+
+# Build output
+goclip-youtube-playlist
+*.exe
